@@ -9,7 +9,7 @@ index.html이동
 
 실행
 
-# 코드
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
