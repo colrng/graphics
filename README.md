@@ -1,6 +1,11 @@
 # graphics
 
 #사용법
+
+index.txt에서
+
+코드 복사
+
 p5.js로 실행
 
 index.html이동
